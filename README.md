@@ -1,9 +1,10 @@
 # Greetings, my name is Steffen Andersland
-### I am a self-taught developer
-I love creating tools using Flask and Python. However, these days I primarily use JavaScript while at my full-time job working within NetSuite's SuiteScript environment. 
+### SuiteScript Developer
+Full time SuiteScript Developer at Colibri
 
 ## Skills
 * 🐍 Python
+* 🤖 TypeScript
 * 🧠 MySQL
 * 💻 HTML, CSS, JS
 
