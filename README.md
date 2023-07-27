@@ -7,5 +7,3 @@ Full time SuiteScript Developer at Colibri
 * 🤖 TypeScript
 * 🧠 MySQL
 * 💻 HTML, CSS, JS
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandersland&show_icons=true)  
