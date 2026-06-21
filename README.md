@@ -1,6 +1,6 @@
 # Greetings, my name is Steffen Andersland
 ## SuiteScript Developer
-Full time SuiteScript Developer at Colibri
+Full time SuiteScript Developer at WHOOP
 
 ### Skills
 * 🤖 JavaScript, TypeScript
